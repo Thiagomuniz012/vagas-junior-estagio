@@ -55,6 +55,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Espírito Santo - ES
 - [PicPay](https://picpay.gupy.io)
+- [Autoglass](https://autoglass.inhire.app/vagas)
 
 #### Goiás - GO
 
